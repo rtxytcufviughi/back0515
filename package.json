@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-replit",
+  "main": "uytfrytu.js",
+  "private": false,
+  "scripts": {
+    "start": "node uytfrytu.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
